@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dev-hills/QR-Code-Component)
+- Solution URL: (https://github.com/dev-hills/QR-Code-Component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
@@ -42,7 +42,3 @@ Through this Project i learned more on how to use CSS grid
 - Frontend Mentor - [@dev-hills](https://www.frontendmentor.io/profile/dev-hills)
 - Twitter - [@greathills8](https://www.twitter.com/greathills8)
 -Instagram - [@i_am_h.i.l.a.r.y](https://instagram.com/i_am_h.i.l.a.r.y)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-e and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
